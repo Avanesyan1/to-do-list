@@ -1,11 +1,5 @@
-# to_do_list
+# To-Do List App
 
-A new Flutter module project.
+A simple, user-friendly To-Do app built with Flutter. Add, update, prioritize, and delete tasks efficiently.
 
-## Getting Started
-
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+Installation: Follow standard procedures for your device's platform.
